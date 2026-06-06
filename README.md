@@ -11,7 +11,7 @@ Aurora supports both [Sunshine](https://github.com/LizardByte/Sunshine) (recomme
 ### Streaming
 - **Video codecs:** H.264, HEVC (H.265), and AV1 — automatically selected based on what your Apple TV hardware can decode
 - **Resolutions:** 720p, 1080p, 1440p (QHD), and 4K
-- **Frame rates:** 30, 60, and 120 fps
+- **Frame rates:** 30, 60
 - **Bitrates:** 5 Mbps to 500 Mbps, adjustable in-app
 - **HDR support** for HEVC and AV1 streams on capable hardware
 - **Frame pacing** for smoother playback
